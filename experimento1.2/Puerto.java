@@ -15,7 +15,7 @@ public class Puerto {
 
     private void cargarEjemplos() {
 
-        String[] origenes = {"China", "Brasil", "Colombia", "USA", "Japón"};
+        String[] origenes = {"China", "Brasil", "Colombia", "USA", "Japón", "India", "Alemania", "Francia", "Italia", "España"  };
 
         int contador = 1;
 
